@@ -5,7 +5,7 @@
 - 🌱&nbsp;&nbsp;Learning Next.js 🫠
 - 💬&nbsp;&nbsp;Ask me about anything
 - 📚&nbsp;&nbsp;Computer Science student at [RAF](https://raf.edu.rs/en/)
-- 📫&nbsp;&nbsp;How to reach me: [@iivic17](https://www.linkedin.com/in/iivic17/) or <a rel="me" href="mailito:ilijaivic17@gmail.com">ln: ilijaivic17@gmail.com</a>
+- 📫&nbsp;&nbsp;How to reach me <a rel="me" href="mailito:ilijaivic17@gmail.com">ilijaivic17@gmail.com</a> or [ln/iivic17](https://www.linkedin.com/in/iivic17/)
 - 🏡&nbsp;&nbsp;Living in Belgrade, Serbia
 
 🏆&nbsp;**Current achievements**
